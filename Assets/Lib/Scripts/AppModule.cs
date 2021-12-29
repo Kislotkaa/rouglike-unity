@@ -8,7 +8,6 @@ public class AppModule : MonoBehaviour {
         InitController();
 
     }
-
     void InitController(){
 
     }
